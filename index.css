@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+html {
+  overflow: hidden;
+}
+body {
+  overflow: hidden;
+  scroll-behavior: smooth;
+  font-family: "Montserrat", sans-serif;
+}
+img {
+  object-fit: cover;
+}
+#home-nav {
+  background-image: url("./images/img8.jpeg");
+  background-color: #1b1b1b;
+  object-fit: cover;
+  color: white;
+
+  height: 100vh;
+}
+.w-15 {
+  width: 15%;
+}
+.jssaten {
+  margin: 0px 1rem;
+  font-size: 0.625rem;
+  font-weight: 700;
+}
+#home-caro {
+  height: 100vh;
+}
+.carousel-item img {
+  height: 100vh;
+}
+.jsspc-logo img {
+  /* padding: 1rem; */
+  margin: 1rem 0;
+}
+.jsspc-text p {
+  font-size: 12px;
+  padding: 0.5rem;
+  margin: 0px 3rem;
+}
+.btn2 .btn-dark {
+  margin: 0px 6rem;
+}
+.btn-dark {
+  border: 2px solid white;
+  border-radius: 0px;
+  background-color: #000;
+  margin: 0px 10px;
+}
+.btn-dark:hover {
+  background-color: white;
+  color: #000;
+  font-weight: 600;
+}
+.social-links {
+  margin-top: 3rem;
+}
+.social-links a {
+  color: white;
+  text-decoration: none;
+  margin: 0px 1rem;
+}
+
+@media screen and (max-width: 767px) {
+  #home-nav {
+    background-image: url("./images/img6.PNG");
+  }
+  #home-caro {
+    display: none;
+  }
+  .img-fluid {
+    max-width: 50%;
+  }
+  .btn2 .btn-dark {
+    margin: 0px 1rem;
+  }
+  .social-links {
+    margin-top: 3rem;
+  }
+  .w-15 {
+    width: 25%;
+  }
+}

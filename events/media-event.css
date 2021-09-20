@@ -1,0 +1,39 @@
+.event{
+    width: 100%;
+}
+.events-heading img{
+    width: 28%;
+}
+.events-heading{
+}
+
+.events-heading-sub img{
+    height: 1px;
+    width: 22%;
+}
+#event-1{
+    padding: 0;
+    margin: 0;
+}
+.events-heading-sub h1{
+    margin: 0 30px;
+    font-size: 1.1rem;
+}
+.events-images img{
+    height: 30vh;
+}
+
+.event-info p{
+    width: 70%;
+    font-size: 0.9rem;
+}
+.events-images-sub{
+    flex-wrap: wrap;
+}
+.events-heading-sub{
+    width: 100%;
+}
+.box1 img{
+    margin: 25px 0; 
+
+}

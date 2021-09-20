@@ -1,0 +1,389 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #1b1b1b;
+}
+
+.hero{
+    margin-top: 50px;
+    width: 100%;
+}
+
+.top_head{
+    width: 80%;
+    margin: auto;
+}
+
+.top_head ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.team_line{
+    color: white;
+    font-size: 2.5rem;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.top_head ul li .l_img{
+    width: 80%;
+    height: auto;
+    float: left;
+}
+
+.top_head ul li .l_img_right{
+    width: 80%;
+    height: auto;
+    float: right;
+}
+
+.para_div{
+    width: 60%;
+    margin: auto;
+}
+
+.para{
+    color: #e1e1e1;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1rem;
+    margin-top: 48px;
+}
+
+.fourth_year{
+    margin-top:80px;
+}
+
+.fourth_year .fouryr_head ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+    margin: auto;
+}
+
+.fourthyr{
+    width: 80%;
+    height: auto;
+    float: left;
+}
+
+.fourthyr_right{
+    width: 80%;
+    height: auto;
+    float: right;
+}
+
+.fouryr{
+    color: white;
+    font-size: 1rem;
+    font-weight: 400;
+    width: 100px;
+    text-align: center;
+}
+
+.linekatext{
+    padding: 0 10px 0 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 60%;
+    margin: auto;
+}
+
+.container .card{
+   display: flex;
+   flex-direction: column;
+   margin: 20px 10px 10px 10px;
+}
+
+.container .card .content h2{
+    color: white;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.container .card .content .name_utk{
+    font-size: 1rem;
+}
+
+.container .card .content .name_shub{
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.container .card .content h4{
+    color: white;
+    font-weight: 400;
+    font-size: 0.75rem;
+}
+
+.cardkiphoto{
+    width: 175px;
+    height: 175px;
+}
+
+.social_accounts{
+    position: flex;
+    // bottom: 20px;
+    z-index: 10;
+    display: flex;
+}
+
+.social_accounts li{
+    list-style: none;
+}
+
+.social_accounts li a{
+    display: inline-block;
+    margin-top: -2px;
+    color: white;
+    transform: scale(1.0);
+    transition: 0.5s;
+}
+
+.social_accounts li a{
+    background: none;
+}
+
+.social_accounts li a:hover{
+    transform: scale(1.0) translateY(-5px);
+}
+
+.iconify{
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+@media (max-width: 767px){
+    .team_line{
+        font-size: 1.5rem;
+        width: fit-content;
+    }
+
+    .para{
+        font-size: 0.8rem;
+    }
+
+    .jsspc_social{
+        width: 120px;
+    }
+
+    .s_icon_svg{
+        width: 24px;
+        height: 24px;
+    }
+}
+
+
+// CSS FOR MODAL HERE
+
+.modal-bg{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(1,1,1,0.5);
+    // opacity: 0.5;
+    z-index: 45410;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s ease-in-out;
+    &:target {
+      visibility: visible;
+      opacity: 1;
+      pointer-events: auto;
+    }
+    // & > div {
+    //   width: 400px;
+    //   position: absolute;
+    //   top: 50%;
+    //   left: 50%;
+    //   transform: translate(-50%, -50%);
+    //   padding: 2em;
+    //   background: white;
+    // }
+}
+
+.modal{
+    // width: 70%;
+    height: 90%;
+    margin: auto;
+    background-color: white;
+    // opacity: 1;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.modal-img{
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .modal_img{
+        height: 100%;
+    }
+}
+
+.modal-data{
+    max-width: fit-content;
+    background-color: white;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    // max-width: 20ch;
+    // display: flex;
+    // flex-direction: column;
+    .info-modal{
+        margin-bottom: 20px;
+        margin-left: 10px;
+        display: flex;
+        flex-direction: column;
+        align-self: flex-end;
+        h1{
+            background-color: white;
+            // position: fixed;
+            // bottom: 0;
+            width: fit-content;
+        }
+        h3{
+            background-color: white;
+        }
+    }
+}
+
+.modal-close {
+    background: none;
+    height: fit-content;
+    color: #010101;
+    float: right;
+    // margin-right: 100px;
+    line-height: 50px;
+    font-weight: 500;
+    font-size: 0.9rem;
+    text-align: center;
+    width: 70px;
+    text-decoration: none;
+    transition: 200ms ease-in-out;
+    &:hover {
+      color: black;
+      font-weight: 600;
+      transform: scale(1.05);
+    //   background: none;
+    }
+}
+
+@media (max-width: 767px) {
+    .modal{
+        width: auto;
+        max-width: 80%;
+        height: 70%;
+        margin: auto;
+        background-color: white;
+        // opacity: 1;
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+    }
+    
+    .modal-img{
+        background: white;
+        width: auto;
+        height: 100%;
+        object-fit: cover;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .modal_img{
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+    }
+    
+    .modal-data{
+        max-width: fit-content;
+        background-color: white;
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        max-width: auto;
+        align-items: center;
+        margin: auto;
+        // display: flex;
+        // flex-direction: column;
+        .info-modal{
+            background-color: white;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 20px;
+            h1{
+                // align-items: center;
+                margin-top: 10px;
+                font-size: 1.5em;
+            }
+            h3{
+                font-size: 0.8em;
+                font-weight: 400;
+            }
+        }
+    }
+    
+    .modal-close {
+        align-items: center;
+        // background: #f1f1f1;
+        // padding: 2px 20px 2px 20px;
+        height: fit-content;
+        color: #010101;
+        float: right;
+        // margin-right: 100px;
+        margin-top: 30px;
+        margin:auto;
+        line-height: 50px;
+        font-weight: 500;
+        font-size: 0.9rem;
+        text-align: center;
+        width: 20%;
+        text-decoration: none;
+        transition: 200ms ease-in-out;
+        &:hover {
+          color: black;
+          font-weight: 600;
+          transform: scale(1.05);
+        //   background: none;
+        }
+    }
+
+    .iconify{
+        width: 24px;
+        height: 24px;
+    }
+}
