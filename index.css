@@ -3,12 +3,17 @@ html {
   overflow: hidden;
 }
 body {
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: auto;
   scroll-behavior: smooth;
   font-family: "Montserrat", sans-serif;
 }
 img {
   object-fit: cover;
+}
+
+.wx-25 {
+  width: 50px !important;
 }
 #home-nav {
   background-image: url("./images/img8.jpeg");

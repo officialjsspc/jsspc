@@ -6,22 +6,22 @@
   box-sizing: border-box;
   text-decoration: none;
   list-style: none;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   background-color: #1b1b1b;
 }
 
 .footer {
-  background-color: black;
+  background-color: black !important;
   height: 160px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   margin-top: 40px;
 }
 
@@ -31,12 +31,12 @@
   display: flex;
   width: 80%;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  background-color: black;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  background-color: black !important;
   margin: auto;
 }
 
@@ -45,19 +45,19 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   max-width: -webkit-fit-content;
   max-width: -moz-fit-content;
   max-width: fit-content;
-  background-color: black;
+  background-color: black !important;
 }
 
 .jss_logo h3 {
-  background-color: black;
+  background-color: black !important;
   color: white;
   margin-left: 20px;
   font-size: 0.625rem;
@@ -71,7 +71,7 @@
 
 .jsspc_social {
   width: 200px;
-  background: black;
+  background: black !important;
 }
 
 .jsspc_social ul {
@@ -79,22 +79,22 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  background: black;
+  -ms-flex-align: center;
+  align-items: center;
+  background: black !important;
 }
 
 .footer .footer_body .jsspc_social ul li a {
-  background: black;
+  background: black !important;
 }
 
 .s_icon_svg {
   width: 32px;
   height: 32px;
-  background-color: #000;
+  background-color: #000 !important;
   fill: white;
 }
 

@@ -17,10 +17,16 @@
     <title>JSSPC | Home</title>
   </head>
   <body class="magictime">
-  
+
+    
+    <div>
+      <img src="./images/jss3.jpg" class="magictime puffIn w-100" id="jss3" alt="">
+    </div>
+    
     <div class="d-flex flex-row">
       <div class="col-12 g-0" id="home-nav">
         <div class="d-flex justify-content-start align-items-center m-3 mb-0">
+          
           <img
             src="./images/jss.svg"
             class="jss-logo magictime spaceInLeft"
@@ -32,7 +38,14 @@
             TECHNICAL EDUCATION, NOIDA
           </a>
           </h3>
+          
+          <!-- <div class="float-end">
+            <img src="./images/Jss1.png" class="wx-25" alt="">
+            <img src="./images/Jss2.png" class="wx-25" alt="">
+            <img src="./images/Jss3.png" class="wx-25" alt="">
+          </div> -->
         </div>
+       
         <div
           class="jsspc-logo d-flex justify-content-center align-items-center"
         >
@@ -64,9 +77,9 @@
             mx-auto
           "
         >
-          <a href="./gallery/gallery.html" class="btn btn-dark">Gallery</a>
-          <a href="./Team/index.html" class="btn btn-dark">Team</a>
-          <a href="./events/events.html" class="btn btn-dark">Events</a>
+          <a href="./gallery/gallery.html" target="_blank" class="btn btn-dark">Gallery</a>
+          <a href="./Team/index.html" target="_blank" class="btn btn-dark">Team</a>
+          <a href="./events/events.html" target="_blank" class="btn btn-dark">Events</a>
         </div>
         <div
           class="
@@ -79,8 +92,8 @@
             spaceInRight
           "
         >
-          <a href="./contact/contact.html" class="btn btn-dark">Contact Us</a>
-          <a href="./about/index.html" class="btn btn-dark">About Us</a>
+          <a href="./contact/contact.html" target="_blank" class="btn btn-dark">Contact Us</a>
+          <a href="./about/index.html" target="_blank" class="btn btn-dark">About Us</a>
         </div>
         <div
           class="social-links d-flex justify-content-center magictime vanishIn"
@@ -130,6 +143,8 @@
           
         </div>
       </div>
+     
+  
       <!-- <div class="col-12 col-md-6 g-0" id="home-caro">
         <div
           id="carouselExampleControls"
@@ -177,6 +192,18 @@
       integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
       crossorigin="anonymous"
     ></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script>
+      $(document).ready(function(){
+        setTimeout(function(){ 
+          $('#jss3').remove();
+        }, 4000);
+        
+
+      });
+
+      
+      </script>
  
 
     <!-- Option 2: Separate Popper and Bootstrap JS -->
