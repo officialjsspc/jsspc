@@ -1,0 +1,500 @@
+
+    <!-- MODALS START HERE -->
+
+    <div id="open-modal-ek" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="Assets/Assets_Library/Stock_Avtar/Man.jpg" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>John Doe</h1>
+                  <h3>Photographer, Designer</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Fourth Year -->
+    <!-- Modal-1 -->
+    <div id="open-modal-vv" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/fourth/Virat.jpg" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Virat Vidhut</h1>
+                  <h3>President</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-2 -->
+    <div id="open-modal-rk" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/fourth/ritik.jpg" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Ritik Kr. Gautam</h1>
+                  <h3>CTC</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-3 -->
+    <div id="open-modal-vp" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/fourth/vinamra.png" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Vinamra Purwar</h1>
+                  <h3>Vice President</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-4 -->
+    <div id="open-modal-sc" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/fourth/sarthak.jpeg" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Sarthak Chauhan</h1>
+                  <h3>Photography & Designing Head</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-5 -->
+    <div id="open-modal-ps" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/fourth/Prakhar.jpg" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Prakhar Singh</h1>
+                  <h3>Photographer</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-6 -->
+    <div id="open-modal-gs" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/fourth/Gautam.jpg" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Gautam Srivastava</h1>
+                  <h3>Photographer</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-7 -->
+    <div id="open-modal-vk" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/fourth/Vivek.jpg" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Vivek Kr. Paswan</h1>
+                  <h3>Photographer</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Third Year -->
+
+    <!-- Modal-1 -->
+    <div id="open-modal-vl" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/third/Viral.JPG" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Viral Luke</h1>
+                  <h3>Photographer</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-2 -->
+    <div id="open-modal-am" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/third/Anuj.png" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Anuj Maurya</h1>
+                  <h3>Photographer</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-3 -->
+    <div id="open-modal-nv" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/third/Nikhil.jpg" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Nikhil Varshney</h1>
+                  <h3>Photographer</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-4 -->
+    <div id="open-modal-ar" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/third/Anukarsh.JPG" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Anukarsh Raj</h1>
+                  <h3>Photo and Video Editing</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-5 -->
+    <div id="open-modal-pk" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/third/Pradeep.jpg" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Pradeep Kumar</h1>
+                  <h3>Photographer</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-6 -->
+    <div id="open-modal-j" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/third/hemant.jpeg" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Hemant</h1>
+                  <h3>Photographer</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-7 -->
+    <div id="open-modal-ay" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/third/Ayushi.png" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Ayushi  </h1>
+                  <h3>Photographer</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
+
+    <!-- Modal-8 -->
+    <div id="open-modal-ak" class="modal-bg">
+      <div class="modal">
+          <div class="modal-img">
+              <img src="./images/third/Ashish.jpg" class="modal_img" alt="" srcset="">
+              <!-- <h1>photo comes here</h1> -->
+          </div>
+          <div class="modal-data">
+              <div>
+
+              </div>
+              <div class="info-modal">
+                  <h1>Ashish Kumar</h1>
+                  <h3>Photographer</h3>
+                  <!-- <ul class="social_accounts">
+                      <li>
+                          <a  href="#" class="instagram"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/instagram-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="linkedin"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/linkedin-filled.svg" alt="" srcset=""></a>
+                      </li>
+                      <li>
+                          <a  href="#" class="github"><img class="iconify" src="Assets/Assets_Library/Icons_Dark/github-filled.svg" alt="" srcset=""></a>
+                      </li>
+                  </ul> -->
+              </div>
+          </div>
+          <a  href="#" title="Close" class="modal-close">Close</a>
+      </div>
+    </div>
