@@ -88,3 +88,9 @@ body {
   width: 40rem !important;
   height: 40rem !important;
 }
+
+.jssaten {
+  margin: 0px 1rem;
+  font-size: 0.625rem;
+  font-weight: 700;
+}

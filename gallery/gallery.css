@@ -5,10 +5,17 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #1b1b1b;
+}
 img {
   object-fit: cover !important;
 }
-
+.jssaten {
+  margin: 0px 1rem;
+  font-size: 0.625rem;
+  font-weight: 700;
+}
 .sq_one {
   width: 1090px;
   height: 790px;

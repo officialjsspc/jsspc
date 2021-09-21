@@ -15,6 +15,11 @@
   height: 50px;
 }
 
+.jssaten {
+  margin: 0px 1rem;
+  font-size: 0.625rem;
+  font-weight: 700;
+}
 .logo {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -62,9 +67,9 @@ nav ul li {
 
 .me,
 .active {
-  text-decoration: none;
-  color: white;
-  border: 1.5px solid #e1e1e1;
+  text-decoration: none !important;
+  color: white !important;
+  border: 1.5px solid #e1e1e1 !important;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   padding: 5px 15px;
@@ -77,8 +82,8 @@ nav ul li {
 
 a.active,
 .me:hover {
-  background: #fff;
-  color: black;
+  background: #fff !important;
+  color: black !important;
   cursor: pointer;
 }
 
@@ -122,7 +127,7 @@ header {
     position: fixed;
     width: 100%;
     height: 100vh;
-    background-color: #1b1b1b;
+    background-color: #1b1b1b !important;
     top: 80px;
     left: -100%;
     text-align: center;
@@ -140,8 +145,8 @@ header {
   }
   .me:hover,
   a.active {
-    background: none;
-    color: #f2f2f2;
+    background: none !important;
+    color: #f2f2f2 !important;
   }
   #check:checked ~ .nav_bar_ {
     left: 0;

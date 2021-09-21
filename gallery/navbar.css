@@ -3,10 +3,10 @@
   padding: 0;
   margin: 0;
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   text-decoration: none;
   list-style: none;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   background-color: #1b1b1b;
 }
 
@@ -20,8 +20,8 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   max-width: -webkit-fit-content;
   max-width: -moz-fit-content;
   max-width: fit-content;
@@ -60,12 +60,13 @@ nav ul li {
   margin: 0 5px;
 }
 
-.me, .active {
+.me,
+.active {
   text-decoration: none;
   color: white;
-  border: 1.5px solid #E1E1E1;
+  border: 1.5px solid #e1e1e1;
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 5px 15px;
   font-size: 1rem;
   -webkit-transition: ease-out 0.3s;
@@ -74,7 +75,8 @@ nav ul li {
   z-index: 1;
 }
 
-a.active, .me:hover {
+a.active,
+.me:hover {
   background: #fff;
   color: black;
   cursor: pointer;
@@ -124,9 +126,16 @@ header {
     left: -100%;
     text-align: center;
     z-index: 50;
-    -webkit-transition: all .5s;
-    transition: all .5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    /* display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center; */
   }
+
   .nav_bar_ li {
     display: block;
     margin: 50px 0;
@@ -135,7 +144,8 @@ header {
   .nav_bar_ li a {
     font-size: 20px;
   }
-  .me:hover, a.active {
+  .me:hover,
+  a.active {
     background: none;
     color: #f2f2f2;
   }
